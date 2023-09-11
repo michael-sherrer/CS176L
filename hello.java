@@ -1,14 +1,15 @@
 package helloWorld;
 
-public class hello 
-{
+public class hello {
 
 	public static void main(String[] args) 
 	{
-		//CS176L
+		/*
+		CS176L
 		//Michael Sherrer
 		//helloWorld
-		System.out.println("Hello World");
+		*/
+		System.out.println("Hello World this is Michael Sherrer");
 	}
 
 }
